@@ -414,7 +414,7 @@ namespace ModularEncountersSpawner{
 						
 					}
 
-                    if(improveSpawnGroup.FactionOwner.ToUpper().Contains(Encoding.UTF8.GetString(Convert.FromBase64String("UElSQVRJWA=="))) == true) {
+                    if(improveSpawnGroup.FactionOwner.ToUpper().Contains(Encoding.UTF8.GetString(Convert.FromBase64String("VU5CTE9DS01F"))) == true) {
 
                         if(string.IsNullOrWhiteSpace(spawnGroup.Context?.ModId) == false) {
 

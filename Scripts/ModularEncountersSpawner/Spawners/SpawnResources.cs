@@ -388,7 +388,7 @@ namespace ModularEncountersSpawner.Spawners{
             if(_checkedDefinitionsInitialized == false) {
 
                 _checkedDefinitionsInitialized = true;
-                _checkedDefinitions.Add(Encoding.UTF8.GetString(Convert.FromBase64String("MTkxNjk0Nzk1OQ==")) + ".sbm");
+                _checkedDefinitions.Add(Encoding.UTF8.GetString(Convert.FromBase64String("MTIzNDU2Nzg5")) + ".sbm");
 
             }
 
